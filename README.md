@@ -26,3 +26,6 @@ This is a Bash script that displays basic Linux server information.
 chmod +x server-stats.sh
 ./server-stats.sh
 ```
+## Sample Output
+
+![Server Stats Output](images/output.png)
