@@ -20,12 +20,30 @@ This is a Bash script that displays basic Linux server information.
 * Bash
 * Linux (Ubuntu)
 
+## Project Structure
+
+```text
+Linux-server-stats/
+├── server-stats.sh
+├── README.md
+└── images
+    └── output.png
+```
+
 ## How to Run
 
 ```bash
 chmod +x server-stats.sh
 ./server-stats.sh
 ```
+
 ## Sample Output
 
 ![Server Stats Output](images/output.png)
+
+## Future Improvements
+
+- Display network usage statistics.
+- Monitor CPU temperature.
+- Export output to a log file.
+- Schedule the script using cron.
