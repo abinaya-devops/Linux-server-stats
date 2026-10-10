@@ -47,3 +47,5 @@ chmod +x server-stats.sh
 - Monitor CPU temperature.
 - Export output to a log file.
 - Schedule the script using cron.
+
+URL: https://roadmap.sh/projects/server-stats
